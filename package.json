@@ -1,0 +1,9 @@
+{
+  "name": "cpack-cli",
+  "version": "1.0.0",
+  "description": "A common CLI packaging tool",
+  "main": "index.js",
+  "repository": "https://github.com/qinmingjie/cpack-cli.git",
+  "author": "qinmingjie",
+  "license": "MIT"
+}
